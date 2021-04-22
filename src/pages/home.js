@@ -1,9 +1,13 @@
-function App() {
+import Header from '../components/Header'
+import Banner from '../components/Banner'
+
+function Home() {
   return (
     <div>
-     Home
+    <Header />
+    <Banner />
     </div>
   );
 }
 
-export default App;
+export default Home;
