@@ -1,5 +1,5 @@
 import './styles.scss'
-import Jussi from '../../assets/images/image-jussi.png'
+import jussi from '../../assets/images/image-jussi.png'
 
 function Institutional() {
   return (
@@ -10,7 +10,7 @@ function Institutional() {
         <a href="/">Conheça a Jüssi</a>
       </div>
       <div className="picture-institutional">
-        <img src={Jussi} alt="Image Jussi" />
+        <img src={jussi} alt="Jussi" />
       </div>  
     </div>
   );
