@@ -10,7 +10,7 @@ function Header() {
         <div>
           <img src={logo} alt="Logo" />
           <a href="/">Nossas Soluções</a>
-          <a href="/">Conheça a Jussi</a>
+          <a href="/">Conheça a Jüssi</a>
         </div>
         <div>
           <div className="search">
